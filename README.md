@@ -1,6 +1,3 @@
-![](https://avatars.githubusercontent.com/u/68754006?s=400&u=3d5e073429c4b07e62cbf6ef07069008206b9f81&v=4)
-
-
 
 <h1 align="center">Hi 👋, I'm MD. Mahtab Uddin</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh, Premier University Chittagong</h3>
@@ -17,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mahtab-saimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mahtab-saimon" height="30" width="40" /></a>
-<a href="mahtab-saimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15600490/mahtab-saimon" height="30" width="40" /></a>
-<a href="kazi.saimon.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kazi.saimon.37/" height="30" width="40" /></a>
-<a href="mahtab_saimon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahtab_saimon/" height="30" width="40" /></a>
+<a href="https://codepen.io/mahtab-saimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahtab-saimon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15600490/mahtab-saimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15600490/mahtab-saimon" height="30" width="40" /></a>
+<a href="https://fb.com/kazi.saimon.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kazi.saimon.37" height="30" width="40" /></a>
+<a href="https://instagram.com/mahtab_saimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahtab_saimon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
